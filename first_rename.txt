@@ -1,0 +1,6 @@
+this is my version 1
+i want this to go into commit 2
+jfnc
+git commit -a -m "direct commit"
+
+
